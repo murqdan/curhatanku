@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CurhatanKu</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="title_signup_page">Lengkapi Data Diri</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">silakan login</string>
+    <string name="message_register_page">silakan isi data</string>
+    <string name="title_login_page">Hai, Selamat Datang!</string>
+    <string name="name">Nama</string>
+    <string name="to_register">Belum Punya Akun? Daftar Disini.</string>
+    <string name="to_login">Sudah Punya Akun? Login Disini.</string>
+    <string name="logout">Keluar</string>
+    <string name="password_min_char">Password setidaknya harus 8 karakter</string>
+    <string name="add">add curhatan</string>
+    <string name="description_detail">description curhatan description curhatan description curhatan</string>
+    <string name="description_hint">Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="retry">Coba lagi</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">Peta curhatan</string>
+    <string name="title_activity_detail">Detail curhatan</string>
+    <string name="title_activity_add">Buat curhatan</string>
+</resources>
